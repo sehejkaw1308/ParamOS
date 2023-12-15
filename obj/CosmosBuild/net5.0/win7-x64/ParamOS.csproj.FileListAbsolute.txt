@@ -1,0 +1,12 @@
+D:\ParamOS\ParamOS\bin\CosmosBuild\net5.0\win7-x64\ParamOS.deps.json
+D:\ParamOS\ParamOS\bin\CosmosBuild\net5.0\win7-x64\ParamOS.dll
+D:\ParamOS\ParamOS\bin\CosmosBuild\net5.0\win7-x64\ref\ParamOS.dll
+D:\ParamOS\ParamOS\bin\CosmosBuild\net5.0\win7-x64\ParamOS.pdb
+D:\ParamOS\ParamOS\obj\CosmosBuild\net5.0\win7-x64\ParamOS.csproj.AssemblyReference.cache
+D:\ParamOS\ParamOS\obj\CosmosBuild\net5.0\win7-x64\ParamOS.GeneratedMSBuildEditorConfig.editorconfig
+D:\ParamOS\ParamOS\obj\CosmosBuild\net5.0\win7-x64\ParamOS.AssemblyInfoInputs.cache
+D:\ParamOS\ParamOS\obj\CosmosBuild\net5.0\win7-x64\ParamOS.AssemblyInfo.cs
+D:\ParamOS\ParamOS\obj\CosmosBuild\net5.0\win7-x64\ParamOS.csproj.CoreCompileInputs.cache
+D:\ParamOS\ParamOS\obj\CosmosBuild\net5.0\win7-x64\ParamOS.dll
+D:\ParamOS\ParamOS\obj\CosmosBuild\net5.0\win7-x64\ref\ParamOS.dll
+D:\ParamOS\ParamOS\obj\CosmosBuild\net5.0\win7-x64\ParamOS.pdb

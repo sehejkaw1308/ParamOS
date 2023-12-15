@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "d/4yO9jiGggnp0o05xR4aTODtv2UM5QJSS6vuqlGHq8ebZ74eCp0j9ZxDPrFtg9ILMAsSoBG/YyVroS3fdojgQ==",
+  "success": true,
+  "projectFilePath": "D:\\ParamOS\\ParamOS\\ParamOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sehej\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20220209054635\\cosmos.build.0.1.0-localbuild20220209054635.nupkg.sha512",
+    "C:\\Users\\Sehej\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20220209054647\\cosmos.common.0.1.0-localbuild20220209054647.nupkg.sha512",
+    "C:\\Users\\Sehej\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20220209054647\\cosmos.core.0.1.0-localbuild20220209054647.nupkg.sha512",
+    "C:\\Users\\Sehej\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20220209054647\\cosmos.debug.kernel.0.1.0-localbuild20220209054647.nupkg.sha512",
+    "C:\\Users\\Sehej\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20220209054647\\cosmos.hal2.0.1.0-localbuild20220209054647.nupkg.sha512",
+    "C:\\Users\\Sehej\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20220209054647\\cosmos.system2.0.1.0-localbuild20220209054647.nupkg.sha512",
+    "C:\\Users\\Sehej\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20220209054647\\il2cpu.api.0.1.0-localbuild20220209054647.nupkg.sha512",
+    "C:\\Users\\Sehej\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.17\\microsoft.netcore.app.runtime.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Sehej\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.17\\microsoft.aspnetcore.app.runtime.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Sehej\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.17\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
